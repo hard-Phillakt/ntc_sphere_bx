@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="sphere" showDialogOnRemoteDnD="false" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="belfrez.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="belfrez.ru (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bit">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bit (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bitrix">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bitrx_divisima">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="blok062">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="cw">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dshkaf31">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="escentre-online">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="escentre-online (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="escentre-online.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="grapes">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="holod-remont">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="inter-mash.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="livam.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="metkom62.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="monitoring2b">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="monitoring2b.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="moto62">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="normak">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="npkprotech">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ntc_phere">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pulseTeam">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ritmtk">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ritmtk (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ritmtk (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="rzkk.net">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sitexpert-bx">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="sphere">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/.gem" />
+            <excludedPath path="/.local" />
+            <excludedPath path="/farm.sitexpert.beget.tech" />
+            <excludedPath path="/grapes.sitexpert.beget.tech" />
+            <excludedPath path="/holod-remont.ru" />
+            <excludedPath path="/holod-test" />
+            <excludedPath path="/npkprotech.com" />
+            <excludedPath path="/ntc.sitexpert.beget.tech" />
+            <excludedPath path="/rzlock.sitexpert.beget.tech" />
+            <excludedPath path="/wood.sitexpert.beget.tech" />
+            <excludedPath path="/upload" />
+            <excludedPath path="/cgi-bin" />
+            <excludedPath path="/.access.php" />
+            <excludedPath path="/.htaccess" />
+            <excludedPath path="/urlrewrite.php" />
+            <excludedPath path="/bitrix/admin" />
+            <excludedPath path="/bitrix/blocks" />
+            <excludedPath path="/bitrix/cache" />
+            <excludedPath path="/bitrix/components" />
+            <excludedPath path="/bitrix/css" />
+            <excludedPath path="/bitrix/fonts" />
+            <excludedPath path="/bitrix/gadgets" />
+            <excludedPath path="/bitrix/image_uploader" />
+            <excludedPath path="/bitrix/images" />
+            <excludedPath path="/bitrix/js" />
+            <excludedPath path="/bitrix/managed_cache" />
+            <excludedPath path="/bitrix/modules" />
+            <excludedPath path="/bitrix/panel" />
+            <excludedPath path="/bitrix/services" />
+            <excludedPath path="/bitrix/sounds" />
+            <excludedPath path="/bitrix/templates" />
+            <excludedPath path="/bitrix/themes" />
+            <excludedPath path="/bitrix/tmp" />
+            <excludedPath path="/bitrix/tools" />
+            <excludedPath path="/bitrix/updates" />
+            <excludedPath path="/bitrix/wizards" />
+            <excludedPath path="/bitrix/.access.php" />
+            <excludedPath path="/bitrix/.settings.php" />
+            <excludedPath path="/bitrix/bitrix.php" />
+            <excludedPath path="/bitrix/composer-bx.json" />
+            <excludedPath path="/bitrix/composer.json.example" />
+            <excludedPath path="/bitrix/coupon_activation.php" />
+            <excludedPath path="/bitrix/footer.php" />
+            <excludedPath path="/bitrix/header.php" />
+            <excludedPath path="/bitrix/index.php" />
+            <excludedPath path="/bitrix/license_key.php" />
+            <excludedPath path="/bitrix/p3p.xml" />
+            <excludedPath path="/bitrix/routing_index.php" />
+            <excludedPath path="/bitrix/rss.php" />
+            <excludedPath path="/bitrix/spread.php" />
+            <excludedPath path="/bitrix/urlrewrite.php" />
+            <excludedPath path="/bitrix/virtual_file_system.php" />
+            <excludedPath path="/bitrix/php_interface/.htaccess" />
+            <excludedPath path="/bitrix/php_interface/after_connect.php" />
+            <excludedPath path="/bitrix/php_interface/after_connect_d7.php" />
+            <excludedPath path="/bitrix/php_interface/dbconn.php" />
+            <excludedPath path="/bitrix/site_checker_8567f5cd9ecfec947c50f0027005af9e.log" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="study-it.online">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="subaru31.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="teplovodokhran-test">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="versal62.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="verta62.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zavodbiz">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
